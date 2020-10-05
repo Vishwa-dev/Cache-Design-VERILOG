@@ -18,7 +18,7 @@
 //
 // Revision: 
 // Revision 0.01 - File Created
-// Additional Comments: 
+// Additional Comments: This is a solely academic work
 //
 //////////////////////////////////////////////////////////////////////////////////
 module cache_controller(
